@@ -2,6 +2,11 @@
 
 JobFindr is a modern job application platform where users can search for jobs, apply for positions, and for employers to post new job opportunities. It’s designed to be responsive, fast, and user-friendly, with features like job filtering, liking/bookmarking jobs, and real-time updates.
 
+![capstone 1](capstone1.jpg)
+![capstone 2](capstone2.jpg)
+![capstone 3](capstone3.jpg)
+
+
 ## link
 https://jobfinder-lac.vercel.app/
 
