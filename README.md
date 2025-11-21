@@ -75,8 +75,8 @@ Frontend: Deploy on Netlify
 
 Backend: Deploy on Render
 
-Ensure all environment variables are added on the hosting platforms.
+## Ensure all environment variables are added on the hosting platforms.
 
-License
+## License
 
 This project is licensed under the MIT License.
