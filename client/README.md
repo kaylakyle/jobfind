@@ -1,11 +1,11 @@
-JobFindr
+## JobFindr
 
 JobFindr is a modern job application platform where users can search for jobs, apply for positions, and for employers to post new job opportunities. It’s designed to be responsive, fast, and user-friendly, with features like job filtering, liking/bookmarking jobs, and real-time updates.
 
-link 
+## link 
 job-findr-frontend-5l505vc9u-lynn-katis-projects.vercel.app
 
-Features
+## Features
 
 User authentication using Auth0
 
@@ -21,7 +21,7 @@ Responsive UI with grid, table, and list views
 
 Backend connected to MongoDB for job and user data
 
-Tech Stack
+## Tech Stack
 
 Frontend: Next.js, React, Tailwind CSS
 
@@ -33,15 +33,14 @@ Authentication: Auth0
 
 Deployment: Frontend on Netlify, Backend on Render
 
-Setup & Installation
+## Setup & Installation
 
 Clone the repository
 
 git clone https://github.com/your-username/jobfindr.git
 cd jobfindr
 
-
-Install dependencies
+##  Install dependencies
 
 # Backend
 cd server
@@ -52,7 +51,7 @@ cd ../frontend
 npm install
 
 
-Environment variables
+## Environment variables
 
 Create a .env file in the server folder with the following keys:
 
@@ -64,7 +63,7 @@ CLIENT_URL=http://localhost:3000
 MONGO_URI=your-mongodb-connection-string
 
 
-Run the application locally
+## Run the application locally
 
 # Backend
 cd server
@@ -75,15 +74,15 @@ cd ../frontend
 npm run dev
 
 
-Open your browser and go to http://localhost:3000 to see the application.
+## Open your browser and go to https://localhost:3000 to see the application.
 
-Deployment
+## Deployment
 
-Frontend: Deploy on Netlify
+Frontend: Deploy on Netlify - https://job-findr-frontend-5l505vc9u-lynn-katis-projects.vercel.app
 
 Backend: Deploy on Render
 
-Ensure all environment variables are added on the hosting platforms.
+## Ensure all environment variables are added on the hosting platforms.
 
 License
 
