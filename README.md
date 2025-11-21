@@ -1,8 +1,8 @@
-JobFindr
+## JobFindr
 
 JobFindr is a modern job application platform where users can search for jobs, apply for positions, and for employers to post new job opportunities. It’s designed to be responsive, fast, and user-friendly, with features like job filtering, liking/bookmarking jobs, and real-time updates.
 
-Features
+## Features
 
 User authentication using Auth0
 
@@ -18,7 +18,7 @@ Responsive UI with grid, table, and list views
 
 Backend connected to MongoDB for job and user data
 
-Tech Stack
+## Tech Stack
 
 Frontend: Next.js, React, Tailwind CSS
 
@@ -30,15 +30,14 @@ Authentication: Auth0
 
 Deployment: Frontend on Netlify, Backend on Render
 
-Setup & Installation
+## Setup & Installation
 
-Clone the repository
+## Clone the repository
 
 git clone https://github.com/your-username/jobfindr.git
 cd jobfindr
 
-
-Install dependencies
+## Install dependencies
 
 # Backend
 cd server
@@ -48,8 +47,7 @@ npm install
 cd ../frontend
 npm install
 
-
-Environment variables
+## Environment variables
 
 Create a .env file in the server folder with the following keys:
 
@@ -60,8 +58,7 @@ ISSUER_BASE_URL=your-auth0-domain
 CLIENT_URL=http://localhost:3000
 MONGO_URI=your-mongodb-connection-string
 
-
-Run the application locally
+## run the application locally
 
 # Backend
 cd server
@@ -71,11 +68,9 @@ npm start
 cd ../frontend
 npm run dev
 
-
 Open your browser and go to http://localhost:3000 to see the application.
 
-Deployment
-
+## Deployment
 Frontend: Deploy on Netlify
 
 Backend: Deploy on Render
