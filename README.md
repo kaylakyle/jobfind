@@ -5,6 +5,11 @@ JobFindr is a modern job application platform where users can search for jobs, a
 ## link
 https://jobfinder-lac.vercel.app/
 
+![Capstone 1](capstone1.jpg)
+![Capstone 2](capstone2.jpg)
+![Capstone 3](capstone3.jpg)
+
+
 ## Features
 
 User authentication using Auth0
