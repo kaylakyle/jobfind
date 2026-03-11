@@ -2,7 +2,7 @@
 
 JobFindr is a modern job application platform where users can search for jobs, apply for positions, and for employers to post new job opportunities. It’s designed to be responsive, fast, and user-friendly, with features like job filtering, liking/bookmarking jobs, and real-time updates.
 
-![https://github.com/kaylakyle/jobfind/blob/main/capstone%201.jpg](capstone1.jpg)
+![https://github.com/kaylakyle/jobfind/blob/main/capstone%201.jpg]
 ![capstone 2](capstone2.jpg)
 
 
