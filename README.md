@@ -4,7 +4,7 @@ JobFindr is a modern job application platform where users can search for jobs, a
 
 ![https://github.com/kaylakyle/jobfind/blob/main/capstone%201.jpg](capstone1.jpg)
 ![capstone 2](capstone2.jpg)
-![capstone 3](capstone3.jpg)
+
 
 
 ## link
