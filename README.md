@@ -20,7 +20,7 @@ Like/bookmark jobs for later
 
 View job details and applicants
 
-Post and manage jobs (for employers)
+Post and manage jobs (for employers).
 
 Responsive UI with grid, table, and list views
 
